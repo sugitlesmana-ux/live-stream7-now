@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "live-stream",
+  "name": "live-stream7-now",
   "builds": [
     { "src": "*.html", "use": "@vercel/static" }
   ],
